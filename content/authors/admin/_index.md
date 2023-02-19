@@ -1,7 +1,7 @@
 ---
 # Display name
-title: Bilal
-name_pronunciation: buh·laal
+title: Bilal Shaikh
+name_pronunciation: buh·laal shayk
 
 # Is this the primary user of the site?
 superuser: true
