@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bilal Shaikh
+title: M. Bilal Shaikh
 name_pronunciation: buh·laal shayk
 
 # Is this the primary user of the site?
