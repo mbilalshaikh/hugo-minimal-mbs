@@ -42,7 +42,7 @@ social:
     icon_pack: fab
     link: https://github.com/mbilalshaikh
   - icon: google-scholar
-    icon_pack: ai
+    icon_pack: fab
     link: https://scholar.google.com.au/citations?user=JB922M4AAAAJ
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
