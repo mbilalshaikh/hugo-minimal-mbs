@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: Bilal
+name_pronunciation: buh·laal
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'Machine Learning Engineer/ Data Scientist'
 
 # Status emoji
 status:
@@ -28,10 +28,10 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:mbs.techy@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://twitter.com/onlybilalshaikh
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/spacex/
@@ -43,10 +43,10 @@ social:
     link: https://www.tiktok.com/@spacex.to.mars
   - icon: orcid
     icon_pack: fab
-    link: https://orcid.org/0000-0001-5547-3196
+    link: https://orcid.org/0000-0001-9042-5018
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mbilalshaikh
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
   - icon: file-pdf
